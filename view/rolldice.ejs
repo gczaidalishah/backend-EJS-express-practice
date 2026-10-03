@@ -1,0 +1,9 @@
+<%-include("includes/head.ejs")%>
+<body>
+    <h1>You rolled: <%= dice %></h1>
+    <a href="/rolldice">Roll again</a>
+    <% if(dice==6){%>
+       <h1> Nice!roll dice again</h1>
+        <% }%>
+</body>
+</html>

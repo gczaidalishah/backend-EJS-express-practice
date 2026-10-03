@@ -1,0 +1,36 @@
+{
+  "cat": {
+    "name": "Whiskers",
+    "followers": 12840,
+    "following": 315,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=900&q=80",
+        "likes": 3421,
+        "comments": 184
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?auto=format&fit=crop&w=900&q=80",
+        "likes": 2890,
+        "comments": 96
+      }
+    ]
+  },
+  "dog": {
+    "name": "Buddy",
+    "followers": 23150,
+    "following": 408,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=900&q=80",
+        "likes": 6542,
+        "comments": 312
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=900&q=80",
+        "likes": 4881,
+        "comments": 205
+      }
+    ]
+  }
+}
